@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="referrer" content="no-referrer">
+  <script>
+    window.location.href = "https://votre-lien-cible.com"; // Redirection instantanée
+  </script>
+</head>
+<body>
+  <!-- Optionnel : Message de redirection -->
+  <p>Redirection en cours...</p>
+</body>
+</html>
